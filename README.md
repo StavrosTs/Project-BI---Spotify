@@ -6,7 +6,7 @@ Data Analysis in Spotify Dataframe 2017-2021
        - Basically, i must create a presantation with interactive dashboards and i chose PowerBI.
        - I inserted my previous data and i created a PowerBI which i can't upload, so i uploaded an image file.
        
-   2. Preasentation
+   2. Presentation
        - It consists of a selection list and 2 slicers with years,months & rankings respectively.
        - I created 2 bar plots which visualize total streams per year & month.
        - A pie chart which shows total streams before & after covid.
